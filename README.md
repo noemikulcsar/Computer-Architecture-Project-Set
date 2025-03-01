@@ -2,11 +2,11 @@
 
 ## 🏗️ Project Overview
 
-This project simulates the MIPS architecture using two main approaches: **Single Cycle** and **Pipeline**. It’s designed to emulate how MIPS instructions are processed and executed on a hardware platform, with functional verification done on a development board. 🎯
+This project simulates the MIPS architecture using two main approaches: **Single Cycle** and **Pipeline**. It’s designed to emulate how MIPS instructions are processed and executed on a hardware platform, with functional verification done on the Nexys A7 development board, from the FPGA board family. 🎯
 
 The goal is to build an efficient simulation for understanding MIPS instruction flow, control units, and data manipulation in processors. 🖥️⚙️
 
-### 🌟 Functional Elements
+### 🌟 Components
 
 1. **Instruction Fetch (IFetch)** 🔍
    - **Role**: Fetches the instruction from memory at the beginning of each cycle.
