@@ -41,7 +41,10 @@ The goal is to build an efficient simulation for understanding MIPS instruction 
    - **Purpose**: Provides real-time feedback on the processor’s status or result.
 
 ---
-
+## Single Cycle Implementation RTL Diagram
+![Single Cycle](images/SingleCycle.png)
+## Pipeline Implementation RTL Diagram
+![Pipeline](images/Pipeline.png)
 ## 🔧 Functionalities Implemented
 
 This project simulates a full MIPS processor by integrating both the **Single Cycle** and **Pipeline** approaches. Here's a closer look at the functionality:
