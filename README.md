@@ -42,9 +42,9 @@ The goal is to build an efficient simulation for understanding MIPS instruction 
 
 ---
 ## Single Cycle Implementation RTL Diagram
-![Single Cycle](images/SingleCycle.png)
+![Single Cycle](images/SingleCycle.jpg)
 ## Pipeline Implementation RTL Diagram
-![Pipeline](images/Pipeline.png)
+![Pipeline](images/Pipeline.jpg)
 ## 🔧 Functionalities Implemented
 
 This project simulates a full MIPS processor by integrating both the **Single Cycle** and **Pipeline** approaches. Here's a closer look at the functionality:
