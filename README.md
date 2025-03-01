@@ -2,7 +2,7 @@
 
 ## 🏗️ Project Overview
 
-This project simulates the MIPS architecture using two main approaches: **Single Cycle** and **Pipeline**. It’s designed to emulate how MIPS instructions are processed and executed on a hardware platform, with functional verification done on the Nexys A7 development board, from the FPGA board family. 🎯
+This project simulates the MIPS architecture using two main approaches: **Single Cycle** and **Pipeline**. It’s designed to emulate how MIPS instructions are processed and executed on a hardware platform, with functional verification done on the Nexys A7 development board, from the **FPGA** board family. 🎯
 
 The goal is to build an efficient simulation for understanding MIPS instruction flow, control units, and data manipulation in processors. 🖥️⚙️
 
